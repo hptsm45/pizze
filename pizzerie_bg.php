@@ -2,6 +2,7 @@
 ELENCO PIZZERIE BERGAMO (11/12/2017)
 
 <?php
+//Ndiaye
 	
 	$l=50; //num max output
 	$q='pizza'; //query
